@@ -139,6 +139,6 @@ flowchart LR
 
 <div align="center">
 
-<sub>Сделано с <img src="https://api.iconify.design/mdi/waves.svg?color=%2338bdf8" width="14" /> и <img src="https://api.iconify.design/mdi/coffee.svg?color=%23caa23a" width="14" /> · Generated with <a href="https://claude.com/claude-code">Claude Code</a></sub>
+<sub>Сделано с <img src="https://api.iconify.design/mdi/waves.svg?color=%2338bdf8" width="14" /> и <img src="https://api.iconify.design/mdi/coffee.svg?color=%23caa23a" width="14" /> 
 
 </div>
