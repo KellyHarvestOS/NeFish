@@ -111,5 +111,5 @@
   <!-- title -->
   <text x="600" y="120" text-anchor="middle" font-size="92" font-weight="800" fill="#ffffff" stroke="#0c4d80" stroke-width="2">NeFish</text>
   <text x="600" y="120" text-anchor="middle" font-size="92" font-weight="800" fill="url(#gold)" opacity="0.0">NeFish</text>
-  <text x="600" y="162" text-anchor="middle" font-size="24" font-weight="600" fill="#eaf6ff">🎣 Океанский симулятор рыбалки в браузере</text>
+  <text x="600" y="162" text-anchor="middle" font-size="24" font-weight="600" fill="#eaf6ff">Океанский симулятор рыбалки в браузере</text>
 </svg>
